@@ -8,10 +8,5 @@ while i<=x:
         break
 
     print("candy")
-    i = i + 1
-
-
-
-
-
+    i = i + 2
 print("bye")
